@@ -11,6 +11,8 @@ Software - Python 3.9.5, conda 4.10.3, Jupyter Notebook
 ## Results
 - The district summary in the new analysis had a one percent decrease in the overall passing percentage from the original  scores.
 - The percentages of the Thomas High School in the new school summary increased tremedously when the grades were replaced.The new analysis percentages resemble the numbers from the original analysis , when the ninth graders were included, which was the purpose of the assignment. The average reading and math scores stayed around the same number in the new and original analysis.
+![THS 1](https://user-images.githubusercontent.com/85713532/125225960-29dd2100-e29e-11eb-995f-86b373364761.png)
+![THS 2](https://user-images.githubusercontent.com/85713532/125225981-32355c00-e29e-11eb-946e-1b85c2bf661f.png)
 - Replacing the grades raised the grade percentages approximately 20 percent. 
 ### Ninth Grades Scores
 - Math and reading scores, school spending, school size and school types did not differ from the orignial analysis. 
